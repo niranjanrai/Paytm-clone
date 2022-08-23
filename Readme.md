@@ -3,6 +3,12 @@ This is Assigment project from full stack JS Bootcamp from Hitesh Sir.
 
 
 # Screen-shot
+![](./Images/SS/paytm-1.png)
+![](./Images/SS/paytm-3.png)
+![](./Images/SS/payttm-2.png)
+![](./Images/SS/paytm-4.png)
+![](./Images/SS/paytm-5.png)
+
 
 
 # Tech-Stck
